@@ -10,7 +10,7 @@ package edu.neu.coe.csye7200.assthw
   * running HelloWorldSpec and pass the test.
   */
 object HelloWorld extends App {
-  def greeting = "Hello World! This is Naveen"
+  def greeting = "Hello World!"
 
   println(greeting)
 }
